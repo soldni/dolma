@@ -26,5 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourusername/yourrepository:latest
+          tags: soldni/dolma:latest
           platforms: linux/amd64
